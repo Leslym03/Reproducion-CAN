@@ -27,6 +27,15 @@
 
 ## Workflow
 
+Crear un entorno virtual en python
+```
+python3 -m venv virtualCAN
+```
+Clonar este repositorio con git
+```
+git clone https://github.com/Leslym03/Reproducion-CAN
+```
+Ingresar a la carpeta de `ReproducionCAN/src`
 Instalar requerimientos a travez del siguiente comando:
 
 ```
@@ -46,4 +55,4 @@ Por ultimo ejecutar el archivo `main.py`
 
 ## Limitaciones
 
-Crear un entorno virtual con las versiones de python 3.6 y tensorflow  1.
+Crear un entorno virtual con las versiones de python 3.6.
